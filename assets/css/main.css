@@ -239,7 +239,7 @@
   background:transparent
  }
  body {
-  -webkit-tap-highlight-color:#FFF498
+  -webkit-tap-highlight-color:#664997
  }
  body {
   background-color:#0c0c0c;
@@ -287,7 +287,7 @@
   width:2px;
   height:70%;
   max-height:750px;
-  background-color:#555;
+  background-color:#664997;
   opacity:.35;
   z-index:10
  }
@@ -597,7 +597,7 @@
   content:"08"
  }
  .side-nav li.is-active {
-  color:#8f3f05e0;
+  color:#664997;
   -webkit-transition:color .4s ease-in-out;
   transition:color .4s ease-in-out
  }
@@ -657,7 +657,7 @@
   left:0;
   width:30px;
   height:4px;
-  background-color:#8f3f05e0
+  background-color:#664997
  }
  .intro--banner h1 {
   position:relative;
@@ -681,7 +681,7 @@
   left:23px;
   right:0;
   height:100%;
-  background-image: linear-gradient(to right, #181818 0%, #f5bb0d  51%, #BA8B02  100%);
+  background-image: linear-gradient(to right, #181818 0%, #8e43f1 33.333%, #664997   100%);
   z-index:-1;
   -webkit-transition:left .2s ease-in-out;
   transition:left .2s ease-in-out
@@ -917,7 +917,7 @@
 }
 .reg:hover{
   background-color: #6e6c6c7b;
-  color: #e0920b;
+  color: #664997;
 }
  
  @media (max-width: 900px) {
@@ -1010,7 +1010,7 @@
   left:200px;
   -webkit-transform:rotate(-25deg);
   transform:rotate(-25deg);
-  border:5px solid #8f3f05e0;
+  border:5px solid #664997;
   border-right-color:transparent;
   border-bottom-color:transparent
  }
@@ -1023,7 +1023,7 @@
   transform:rotate(45deg);
   width:10px;
   height:10px;
-  background-color:#8f3f05e0
+  background-color:#664997
  }
  .about--banner h2 {
   position:relative;
@@ -1040,7 +1040,7 @@
   left:268px;
   width:30px;
   height:30px;
-  background-color:#8f3f05e0;
+  background-color:#664997;
   border-radius:50%
  }
  .about--banner h2::after {
@@ -1050,7 +1050,7 @@
   left:255px;
   width:10px;
   height:10px;
-  background-color:#8f3f05e0
+  background-color:#664997
  }
  .about--banner a {
   padding:5px 17px 5px 0;
@@ -1100,7 +1100,7 @@
   height:150px;
   text-decoration:none;
   color:#fff;
-  border:10px solid #8f3f05e0;
+  border:10px solid #664997 ;
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat
@@ -2293,7 +2293,7 @@
 :root{
 --lightColor: #f5ee9e;
 --darkColor: #fad1ac;
---bgColor: #ab3428;
+--bgColor: #664997;
 }
 
 .dhruva {
@@ -2534,8 +2534,8 @@
   display:none
  }
  .work-request--options input[type="checkbox"]:checked+label {
-  background-color:#8f3f05e0;
-  border-color:#8f3f05e0
+  background-color:#664997;
+  border-color:#664997
  }
  .work-request--options input[type="checkbox"]:checked+label svg {
   width:15px
@@ -2651,7 +2651,7 @@
   -webkit-transform:translateZ(0) translateX(0) rotateY(0deg);
   transform:translateZ(0) translateX(0) rotateY(0deg);
   min-height:100%;
-  outline:30px solid #8f3f05e0;
+  outline:30px solid #632f91e0;
   -webkit-transition:-webkit-transform .4s;
   transition:-webkit-transform .4s;
   transition:transform .4s;
@@ -2676,7 +2676,7 @@
  .effect-rotate-left--animate .container {
   -webkit-transform:translateZ(-1800px) translateX(-50%) rotateY(45deg);
   transform:translateZ(-1800px) translateX(-50%) rotateY(45deg);
-  outline:30px solid #8f3f05e0
+  outline:30px solid #664997 
  }
 
  .ctanext{
@@ -3004,7 +3004,7 @@ font-size: 40px;
   left:268px;
   width:30px;
   height:30px;
-  background-color:#8f3f05e0;
+  background-color:#632f91e0;
   border-radius:50%
  }
  .work .head::after {
@@ -3014,7 +3014,7 @@ font-size: 40px;
   left:255px;
   width:10px;
   height:10px;
-  background-color:#8f3f05e0
+  background-color:#664997
  }
  .lside {
   position: absolute;
